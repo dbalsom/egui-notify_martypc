@@ -12,5 +12,5 @@ readme = "README.md"
 path = "src/lib.rs"
 
 [dependencies]
-egui = { git = "https://github.com/dbalsom/egui_martypc.git", branch = "0_24_2_winit_0_29", default-features = false }
+egui = { git = "https://github.com/dbalsom/egui_martypc.git", branch = "0_24_2_winit_0_29_15", default-features = false }
 
